@@ -46,6 +46,13 @@ private int idj;
    public void rana1() {
    System.out.println("Hello rana");
   }
+   public void rana2() {
+	   System.out.println("Hello rana");
+   }
+   
+   public void rana3() {
+	   System.out.println("Hello rana");
+   }
    
    { System.out.println("I love you"); }
 }
