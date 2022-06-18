@@ -42,4 +42,7 @@ private int idj;
    System.out.println("Hello rana");
   }
   
+   public void rana1() {
+   System.out.println("Hello rana");
+  }
 }
