@@ -1,3 +1,3 @@
-Public class Rana {
+ public class Rana {
   
 }
