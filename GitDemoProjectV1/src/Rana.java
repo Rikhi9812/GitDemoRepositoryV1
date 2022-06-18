@@ -55,7 +55,12 @@ private int idj;
    }
    
    { System.out.println("I love you"); }
+	 
+	 
+   { System.out.println("Hello rana");
 }
-
+   
+   { System.out.println("I love you"); }
+}
 
 
