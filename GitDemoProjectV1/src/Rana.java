@@ -5,4 +5,8 @@
   private String emailId;
   private String mail;
   
+  public void rana() {]
+   System.out.println("Hello rana");
+  }
+  
 }
