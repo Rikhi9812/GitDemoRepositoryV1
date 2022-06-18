@@ -5,19 +5,11 @@ public class Demo2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		
+		int data[] = {1, 3, 5, 7};
+		for(int i : data) {
+			System.out.println(data[i]);
+		}
+		System.out.println("i");
 
 	}
 
