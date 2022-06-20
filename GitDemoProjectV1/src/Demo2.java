@@ -16,6 +16,10 @@ public class Demo2 {
 		System.out.println("Hello world2345");
 
 		
+		for(int j = 0; j<= 5; j++) {
+			System.out.println(j);
+		}
+		
 
 	}
 
